@@ -1,2 +1,2 @@
 # JS-Bootcamp-Exercises
-All exercises to be completed for PT Week 1.
+All exercises for the JS Bootcamp that I was able to make succesfully.
